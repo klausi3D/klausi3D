@@ -1,6 +1,6 @@
 # README
 
-fgsdvalöjkmarg mkoöad gg  aaggadfgsdfaga
+
 
 * 👋 Hi, I’m @klausi3D
 * 👀 I’m interested in blender
