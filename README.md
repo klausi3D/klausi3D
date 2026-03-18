@@ -1,8 +1,4 @@
-# README
-
-
-
-Hi, I’m @klausi3D
+## Hi, I'm Alex
 I love making games and creating tools for creating them.
 
 current interests:
